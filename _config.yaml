@@ -1,5 +1,5 @@
 title: NeRF Labs
-description: This is the best page ever
+description: Neural radiance fields: theoretical background, research papers and applications
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
