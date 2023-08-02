@@ -1,4 +1,4 @@
-altitle: NeRF Labs
+title: NeRF Labs
 description: "Neural radiance fields: represent objects and scenes using deep neural networks"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
