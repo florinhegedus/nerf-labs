@@ -1,5 +1,5 @@
 title: NeRF Labs
-description: "Neural radiance fields: represent objects and scenes using deep neural networks"
+description: "Neural Radiance Fields: An In-Depth Analysis"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
