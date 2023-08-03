@@ -6,4 +6,4 @@ Welcome to my website dedicated to understanding and tracking advances in Neural
 
 # Introduction
 
-Neural Radiance Fields (NeRF) is a 3D scene modeling technique that uses neural networks to generate photorealistic renderings and detailed reconstructions from 2D images.
+A neural radiance fields is a neural network that parametrizes a continuous function mapping a 3D location and viewing direction to a volume density and color. The weights of the neural network are optimized to reconstruct a set of input images of a particular scene.
