@@ -6,4 +6,4 @@ Welcome to my website dedicated to understanding and tracking advances in Neural
 
 # Introduction
 
-A neural radiance fields is a neural network that parametrizes a continuous function mapping a 3D location and viewing direction to a volume density and color. The weights of the neural network are optimized to reconstruct a set of input images of a particular scene.
+A neural radiance field is a neural network that parametrizes a continuous function mapping a 3D location and viewing direction to a volume density and color. The weights of the neural network are optimized to reconstruct a set of input images of a particular scene.
